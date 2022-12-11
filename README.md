@@ -56,7 +56,7 @@ https://www.researchgate.net/publication/220590321_Optimization_of_Group_Elevat 
 ואז נעשה עצירה בדרך לקומה החדשה שנכנסה לראש התור.
 תעודה : -593416
 סעיף :4
-![alt text](https://github.com/dimastar2310/Elevator-OOP-0/blob/main/UML_Elevators.png)
+![alt text](https://github.com/dimastar2310/Ex0/blob/main/UML_Elevators.png)
 סעיף :5
 
 טסטים:
